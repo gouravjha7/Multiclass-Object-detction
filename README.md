@@ -1,6 +1,5 @@
 # Multiclass object-Detection Using Opencv and Yolov5
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Multiclass object detectio is a ML model where you can detect dedicated objects, model is a cloud-enabled, mobile-ready
 
